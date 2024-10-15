@@ -17,5 +17,5 @@
 **Reporting:** Summarizing findings in a report or presentation, highlighting key insights and recommendations based on the analysis.
 
 In this Repository I've shared my Data Analysis Projects. These projects are for educational purpose and to showcase the concepts that I have learnt about Data Analysis!! I have used the following tools for Data Analysis :
-# Programming Languages: Python
-# Data Visualization Tools: Matplotlib, Seaborn
+**Programming Languages:** Python
+**Data Visualization Tools:** Matplotlib, Seaborn
